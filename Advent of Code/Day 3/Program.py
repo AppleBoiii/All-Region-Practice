@@ -37,4 +37,5 @@ print(GAMMA*EPSILON)
 
 #GAMMA = get most common bit for each column, turn to decimal
 #EPSILON = get least common bit for each column, turn to decimal
+#TIME ON PART 1 ~ 30 minutes
 
