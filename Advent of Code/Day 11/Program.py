@@ -111,6 +111,7 @@ def step(arr, endVal=100):
 
 
 f = open("input.txt", "r")
+#m = [[int(c) for c in line.strip()] for line in open("input.txt", "r")]
 arr = []
 for line in f:
     arr.append(list(line.strip()))
